@@ -53,10 +53,14 @@ using a Physical Tolerance parameter and covariance regularization to ensure zer
 
 ## 📊 GitHub Analytics
 
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higiphysical-maker&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=higiphysical-maker&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=higiphysical-maker&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=higiphysical-maker&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
+
 
 ---
 
