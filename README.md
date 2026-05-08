@@ -18,7 +18,7 @@ cosmic dust to network intrusions.
 
 HiGI IDS treats network traffic as a measurable physical system, detecting
 threats as statistical $\sigma$-deviations from a learned baseline 
-using a Physical Tolerance parameter and covariance regularization to ensure zero-false-positive robustness
+using a Physical Tolerance parameter and covariance regularization to ensure zero-false-positive robustness.
 
 - **Benchmark (CIC‑IDS2017):** 1.0 Precision / 0.93 F1-Score (DoS/DDoS)
   over 2.6M packets; 0 false positives on 5,670 benign traffic windows (8h).
