@@ -50,16 +50,6 @@ using a Physical Tolerance parameter and covariance regularization to ensure zer
 
 ---
 
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/higiphysical-maker?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage&theme=dark" alt="Metrics" />
-</p>
-
-
----
-
 ## 🔬 Academic & Professional Path
 
 - **🧬 Physicist Background:**
