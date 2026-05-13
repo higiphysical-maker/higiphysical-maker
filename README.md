@@ -9,12 +9,18 @@ cosmic dust to network intrusions.
 
 [**📄 Download CV (PDF)**](./cv/Pablo_Aguadero_Data_Scientist.pdf) |
 [**📧 Email**](mailto:pabloaguaderogarrido@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/pablo-aguadero) |
 
 ---
 
 ## 🧪 Featured Project: HiGI IDS
 
 **An Unsupervised Network Anomaly Detection System built on Physical Logic.**
+> **Business Impact:** HiGI IDS is built to silence noisy alerts in
+> Security Operations Centers. By achieving zero false positives,
+> it eliminates wasted analyst hours. The Polars‑based pipeline
+> processes millions of packets with a significant memory reduction  and x10 velocity vs.
+> traditional Pandas/Spark solutions, lowering infrastructure costs.
 
 HiGI IDS treats network traffic as a measurable physical system, detecting
 threats as statistical $\sigma$-deviations from a learned baseline 
