@@ -8,9 +8,9 @@ unsupervised detection systems that find what shouldn't be there — from
 cosmic dust to network intrusions.
 
 [**📄 Download CV (PDF)**](./cv/Pablo_Aguadero_Data_Scientist.pdf) |
-[**📧 Email**](mailto:pabloaguaderogarrido@gmail.com)
-[**LinkedIn**](https://www.linkedin.com/in/pablo-aguadero) |
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="pablo-aguadero" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/pablo-aguadero?trk=profile-badge">Pablo Aguadero</a></div>
+[**📧 Email**](mailto:pabloaguaderogarrido@gmail.com) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Aguadero-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pablo-aguadero/)
+
               
 
 ---
