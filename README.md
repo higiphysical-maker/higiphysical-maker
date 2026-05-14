@@ -7,9 +7,9 @@ I bridge the gap between physical rigor and machine learning to build
 unsupervised detection systems that find what shouldn't be there — from
 cosmic dust to network intrusions.
 
-[**📄 View CV (PDF)**](./cv/Pablo_Aguadero_Data_Scientist.pdf) |
-[**📧 Email**](mailto:pabloaguaderogarrido@gmail.com) |
-[**🔗 LinkedIn**](https://www.linkedin.com/in/pablo-aguadero/)
+[**📄 View CV (PDF)**](./cv/Pablo_Aguadero_Data_Scientist.pdf)   
+[**📧 Email**](mailto:pabloaguaderogarrido@gmail.com)  
+[**🔗 LinkedIn**](https://www.linkedin.com/in/pablo-aguadero/)  
               
 
 ---
